@@ -21,3 +21,5 @@ Which month has the highest sales?
 What is the average spending per customer?
 Which product category sells the most units?
 What is the most common payment method?
+
+https://www.kaggle.com/datasets/nudratabbas/sql-practice-dataset-1-easy-queries/data
